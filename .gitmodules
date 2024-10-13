@@ -1,0 +1,6 @@
+[submodule "Cafeteria-Front"]
+	path = Cafeteria-Front
+	url = https://github.com/Shenori-Weerakoon/Cafeteria-Front.git
+[submodule "Cafeteria-Back"]
+	path = Cafeteria-Back
+	url = https://github.com/Shenori-Weerakoon/Cafeteria-Back.git
